@@ -4,6 +4,7 @@
 * Phone: +994519008804
 * Email: georgi.chernishov@gmail.com
 * GitHub: Iratus222
+
 ----
 
 ## About Me
@@ -14,6 +15,7 @@ I have always been keen on learning languages. Now I feel very enthusiastic abou
 * HTML - basic
 * CSS - basic
 * Ruby - basic
+
 ----
 ## Code Example
 ```
